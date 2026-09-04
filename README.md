@@ -1,149 +1,149 @@
-# 👋 Hi, I'm Farhan Ahmed
+<div align="center">
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052d4&height=220&section=header&text=Farhan%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Architect%20%7C%20Interactive%20UI%2FUX%20%7C%20CMS%20Specialist&descSize=18&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Farhan Ahmed Header" />
 
-### 💻 Frontend & WordPress Developer
+  <!-- Animated Typing Subtitle -->
+  <a href="https://farhanbits.dev">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=850&height=70&duration=3000&pause=1000&lines=Hi+There!+I'm+Farhan+Ahmed+👋;Frontend+Architect+%26+Interactive+UI%2FUX+Craftsman;Expert+in+React,+Three.js+%26+Tailwind+CSS;WordPress,+Shopify,+Wix+%26+Webflow+Pro&color=38BDF8" alt="Typing SVG" />
+  </a>
+</div>
 
-Frontend & WordPress Developer with 3+ years of experience building responsive, high-performing websites across WordPress, Shopify, Wix, and Squarespace.
+<!-- Quick Action Badges -->
+<div align="center">
+  <a href="https://farhanbits.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-farhanbits.dev-1F2937?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/farhan-ahmed" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mkfarhan567@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/farhanbits">
+    <img src="https://img.shields.io/badge/🐙_GitHub-farhanbits-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-I specialize in HTML5, CSS3, JavaScript, WordPress, Elementor, WooCommerce, PHP, MySQL, custom theme development, third-party API integration, and performance optimization.
-
----
-
-## 🚀 About Me
-
-- 💻 Frontend & WordPress Developer
-- 🧑‍💻 3+ years of professional development experience
-- 🌐 WordPress, Shopify, Wix & Squarespace
-- 🎨 Responsive & pixel-perfect frontend development
-- ⚡ Website performance optimization
-- 🛒 WooCommerce & eCommerce development
-- 🧩 Custom WordPress theme development
-- 🔌 Third-party API integration
-- 🐛 Cross-browser debugging & QA
-- 📍 Karachi, Pakistan
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### CMS & Website Development
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
-![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
-
-### Backend & Database
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Senior Developer | Zetech Solutions
-**Oct 2025 – Present**
-
-- Design and develop responsive, high-performing websites using WordPress, Wix, Squarespace, and Shopify.
-- Translate client requirements into seamless, user-focused digital experiences.
-- Work with clients and internal teams to plan and deliver unique, engaging, and on-brand websites.
-- Optimize website performance, responsive behavior, and usability.
-- Focus on fast, intuitive, and pixel-perfect frontend experiences.
-
-### 🏢 Senior Developer | Tech Tide
-**Dec 2024 – Sep 2025**
-
-- Developed and maintained WordPress websites within a collaborative development environment.
-- Identified and resolved complex technical issues through practical debugging.
-- Contributed to improved user experience through refined frontend implementation.
-
-### 🏢 Junior Developer | Tech Team by Waleed Ahmed
-**Feb 2023 – Nov 2024**
-
-- Built dynamic websites using WordPress, Elementor, WooCommerce, PHP, and MySQL.
-- Developed custom WordPress themes based on client requirements and design specifications.
-- Improved website performance and loading speed through code optimization.
-- Integrated third-party APIs to extend website functionality.
-- Delivered feature-rich and responsive user experiences.
+<!-- About Me & Developer Workspace Layout -->
+<table align="center" width="100%">
+  <tr>
+    <td width="58%" valign="top">
+      <h3>🚀 About Me & My Craft</h3>
+      <p>I am a passionate <b>Frontend Architect & Web Developer</b> with <b>3+ years of experience</b> crafting high-converting, visually stunning, and performance-optimized digital experiences.</p>
+      <ul>
+        <li>⚡ <b>Core Focus:</b> Building reactive Web Apps with <b>React, Three.js, Vite & Tailwind CSS</b>.</li>
+        <li>🌐 <b>CMS Mastery:</b> Custom themes, page builders & API integrations across <b>WordPress, Shopify, Wix, and Webflow</b>.</li>
+        <li>🎨 <b>UI/UX Craftsmanship:</b> Micro-interactions, 3D Canvas backgrounds, custom animations & pixel-perfect designs.</li>
+        <li>🚀 <b>Performance & Conversion:</b> Core Web Vitals optimization, mobile-first responsive architecture & smooth UX journeys.</li>
+        <li>🏢 <b>Agency Experience:</b> Delivered high-impact client projects (including specialized work under <b>Avolveon</b>).</li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/7o6ir/7o6ir/main/assets/developer.gif" width="100%" style="border-radius:12px;" alt="Developer Workspace GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 What I Do
+<!-- Featured Project Spotlight -->
+<h3 align="left">✨ Featured Project Spotlight</h3>
 
-| Service | Focus |
-|---|---|
-| 🌐 Website Development | Responsive & high-performing websites |
-| 🧩 WordPress Development | Custom websites & themes |
-| 🎨 Elementor Development | Pixel-perfect frontend implementation |
-| 🛒 WooCommerce | eCommerce websites & functionality |
-| 💻 Frontend Development | HTML, CSS & JavaScript |
-| ⚡ Performance Optimization | Faster loading & better usability |
-| 🔌 API Integration | Third-party services & functionality |
-| 📱 Responsive Design | Mobile, tablet & desktop experiences |
-
----
-
-## 📈 Development Focus
-
-I build websites with a strong focus on:
-
-- ⚡ Performance
-- 📱 Responsive Design
-- 🎨 Pixel-Perfect Development
-- 🌐 Cross-Browser Compatibility
-- 🧩 Clean Implementation
-- 🔧 Maintainability
-- 🚀 User Experience
+<table width="100%">
+  <tr>
+    <td>
+      <h4>🪄 RemoveBits — 3-in-1 AI Image Studio Workstation</h4>
+      <p>An ultra-fast, dark-themed AI photo editing workstation powered by <b>React 19, Three.js, Vite, Tailwind CSS</b> and <b>BRIA AI Cloud API</b>.</p>
+      <ul>
+        <li>✨ <b>Object Removal Studio:</b> Brush mask eraser with custom Content-Aware Inpainting fallback engine.</li>
+        <li>✂️ <b>Background Removal Studio:</b> Sub-second hair-level edge isolation with transparent PNG export.</li>
+        <li>⚡ <b>Image Quality Enhancer:</b> Detail sharpening, noise reduction & async job polling.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/BRIA_AI-A855F7?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<!-- Categorized Tech Stack Grid -->
+<h3 align="center">🛠️ Premium Tech Stack & Tools</h3>
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farrhanbits&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farrhanbits&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <b>Frontend & 3D Graphics</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,threejs,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Tech" />
+      </td>
+      <td align="center" width="33%">
+        <b>CMS & E-Commerce</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=wordpress,shopify,wix,webflow,php,mysql&theme=dark" alt="CMS Stack" />
+      </td>
+      <td align="center" width="33%">
+        <b>Tools & Workflow</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode,vite&theme=dark" alt="Tools Stack" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- Professional Experience Matrix -->
+<h3 align="left">💼 Professional Experience</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-farhanbits.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhanbits.dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-ahmed)
-
-[![Email](https://img.shields.io/badge/Email-mkfarhan567%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkfarhan567@gmail.com)
-
----
-
-## 💡 Currently
-
-Working on modern websites, WordPress projects, frontend development, performance optimization, and digital experiences.
+| Role | Company | Duration | Highlight |
+| :--- | :--- | :--- | :--- |
+| 👑 **Senior Frontend Developer** | 🏢 **Zetech Solutions** | *Oct 2025 – Present* | Leading responsive web application dev across React, WordPress, Wix & Shopify. |
+| ⚡ **Senior Developer** | 🌊 **Tech Tide** | *Dec 2024 – Sep 2025* | Architected complex frontend UI, fixed performance bottlenecks & enhanced UX flows. |
+| 🛠️ **Junior Developer** | 🚀 **Tech Team by Waleed** | *Feb 2023 – Nov 2024* | Custom WordPress theme/plugin development, Elementor customization & REST APIs. |
 
 ---
 
-### ✨ Let's Build Something Great Together
+<!-- GitHub Trophies Section -->
+<h3 align="center">🏆 GitHub Trophies</h3>
 
-<p align="center">
-  <strong>Frontend • WordPress • Shopify • Wix • Squarespace</strong>
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=farhanbits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Farhan's GitHub Trophies" />
+  </a>
+</div>
 
-<p align="center">
-  <i>Building responsive, high-performing and pixel-perfect websites.</i>
-</p>
+<br/>
+
+<!-- Advanced GitHub Analytics Cards -->
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanbits&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanbits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" width="49%" alt="GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="55%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Daily Developer Quote -->
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight" alt="Daily Quote" />
+</div>
+
+<br/>
+
+<!-- Footer Waving Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052d4,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
