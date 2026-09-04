@@ -13,14 +13,14 @@
   <a href="https://farhanbits.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-farhanbits.dev-1F2937?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/farhan-ahmed" target="_blank">
+  <a href="https://www.linkedin.com/in/farhan-ahmed-068824368?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mkfarhan567@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/farhanbits">
-    <img src="https://img.shields.io/badge/🐙_GitHub-farhanbits-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Farrhanbits">
+    <img src="https://img.shields.io/badge/🐙_GitHub-Farrhanbits-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -28,10 +28,10 @@
 
 ---
 
-<!-- About Me & Developer Workspace Layout -->
+<!-- About Me & Dynamic Coding Activity Matrix -->
 <table align="center" width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="55%" valign="top">
       <h3>🚀 About Me & My Craft</h3>
       <p>I am a passionate <b>Frontend Architect & Web Developer</b> with <b>3+ years of experience</b> crafting high-converting, visually stunning, and performance-optimized digital experiences.</p>
       <ul>
@@ -42,8 +42,8 @@
         <li>🏢 <b>Agency Experience:</b> Delivered high-impact client projects (including specialized work under <b>Avolveon</b>).</li>
       </ul>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/7o6ir/7o6ir/main/assets/developer.gif" width="100%" style="border-radius:12px;" alt="Developer Workspace GIF" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=Farrhanbits&theme=tokyonight&hide_border=true&background=0D1117" width="100%" style="border-radius:12px;" alt="Coding Streak Graph" />
     </td>
   </tr>
 </table>
@@ -80,17 +80,23 @@
 <h3 align="center">🛠️ Premium Tech Stack & Tools</h3>
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="33%" valign="top">
         <b>Frontend & 3D Graphics</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=react,threejs,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Tech" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="34%" valign="top">
         <b>CMS & E-Commerce</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=wordpress,shopify,wix,webflow,php,mysql&theme=dark" alt="CMS Stack" />
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=wordpress,shopify,php,mysql&theme=dark" alt="CMS Core" />
+          <p style="margin-top: 6px;">
+            <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
+            <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
+          </p>
+        </div>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" valign="top">
         <b>Tools & Workflow</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode,vite&theme=dark" alt="Tools Stack" />
       </td>
@@ -111,34 +117,42 @@
 
 ---
 
-<!-- GitHub Trophies Section -->
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- Premium GitHub Analytics Dashboard -->
+<h3 align="center">📊 Real-Time GitHub Analytics & Metrics</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=farhanbits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Farhan's GitHub Trophies" />
-  </a>
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <img src="https://github-stats-extended.vercel.app/api?username=Farrhanbits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" width="100%" alt="GitHub Overview Stats" />
+      </td>
+      <td align="center" width="50%" valign="top">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Farrhanbits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- Advanced GitHub Analytics Cards -->
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanbits&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanbits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" width="49%" alt="GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="55%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Daily Developer Quote -->
+<!-- Daily Developer Quote & Profile Views Badge -->
 <div align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight" alt="Daily Quote" />
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Farrhanbits.Farrhanbits&left_color=0d1117&right_color=38bdf8" alt="Profile Visitor Counter" />
+</div>
+
+<br/>
+
+<!-- Let's Connect CTA Bar -->
+<div align="center">
+  <h3>🤝 Let's Build Something Extraordinary Together!</h3>
+  <a href="mailto:mkfarhan567@gmail.com">
+    <img src="https://img.shields.io/badge/⚡_Start_a_Project-Get_in_Touch-0052d4?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a Project" />
+  </a>
+  <a href="https://farhanbits.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌟_Visit_Portfolio-farhanbits.dev-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio CTA" />
+  </a>
 </div>
 
 <br/>
